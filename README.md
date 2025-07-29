@@ -35,7 +35,7 @@ O projeto também inclui a incorporação de um vídeo do YouTube, conforme o li
 
 Basta abrir o arquivo `desafio-dio-html.html` no seu navegador preferido (Google Chrome, Firefox, Edge etc).  
 🔗 Ou acesse diretamente este caminho no seu computador:  
-[file:///C:/Users/nialk/OneDrive/Desktop/desafio-dio-html.html#inicio][def]
+[file:///C:/Users/nialk/OneDrive/Desktop/desafio-dio-html.html#inicio](file:///C:/Users/nialk/OneDrive/Desktop/desafio-dio-html.html#inicio)
 
 ## 🙋‍♀️ Sobre a experiência
 
