@@ -33,14 +33,24 @@ O projeto também inclui a incorporação de um vídeo do YouTube, conforme o li
 
 ## 💻 Como visualizar
 
-Basta abrir o arquivo `desafio-dio-html.html` no seu navegador preferido (Google Chrome, Firefox, Edge etc).
+Basta abrir o arquivo `desafio-dio-html.html` no seu navegador preferido (Google Chrome, Firefox, Edge etc).  
+🔗 Ou acesse diretamente este caminho no seu computador:  
+[file:///C:/Users/nialk/OneDrive/Desktop/desafio-dio-html.html#inicio][def]
+
+## 🙋‍♀️ Sobre a experiência
+
+> Foi muito legal poder colocar em prática o que aprendi nas aulas! Enquanto montava esse projeto, consegui revisar os conceitos de HTML e ver como cada tag faz sentido dentro da estrutura de um site.  
+
+> Me senti mais confiante ao ver tudo funcionando, mesmo sendo um começo simples. É só o primeiro passo — mas com certeza me deixou ainda mais empolgada para continuar aprendendo e construindo coisas cada vez mais legais! 🚀
 
 ## 📬 Contato
 
 Para dúvidas, sugestões ou colaborações:
 
-📧 naiane.mtr@gmail.com
+📧 naiane@exemplo.com
 
 ---
 
 **© 2025 - Projeto educacional desenvolvido por Naiane Monteiro para a DIO.**
+
+[def]: file:///C:/Users/nialk/OneDrive/Desktop/desafio-dio-html.html#inicio
