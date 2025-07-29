@@ -39,7 +39,7 @@ Basta abrir o arquivo `desafio-dio-html.html` no seu navegador preferido (Google
 
 Para dúvidas, sugestões ou colaborações:
 
-📧 naiane@exemplo.com
+📧 naiane.mtr@gmail.com
 
 ---
 
